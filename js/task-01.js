@@ -23,12 +23,7 @@ nameOfCategory.forEach(data => {
 
 //////////////////////////////////////////////////////////////////
 
-// const y = nameAndCategory.querySelectorAll('h2')
-// console.log(y)
-
-
-// const x = nameAndCategory.querySelector('.item');
-// console.log(x.textContent)
+ 
 
 // Напиши скрипт который:
 
